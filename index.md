@@ -1,6 +1,6 @@
 <html>
   <body>
-    <h2>Privacy Policy</h2>
+    <h1>Privacy Policy</h1>
     <p>
       This SERVICE is provided by Faniry Razafindrazaka at no cost and is intended for use as
       is.
