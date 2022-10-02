@@ -56,11 +56,14 @@
       utilizing my Service, the time and date of your use of the Service, and
       other statistics.
     </p>
-    <p><strong>Cookies</strong></p>
+    <p><strong>Premium activation</strong></p>
     <p>
-      Cookies are files with a small amount of data that are commonly used as
-      anonymous unique identifiers. These are sent to your browser from the
-      websites that you visit and are stored on your device's internal memory.
+      To enable our premium feature, the app requires you do agree a consent form 
+      with your e-mail. This will be then stored in our server. As for offline 
+      payment procedure, the app requires you to entire an activation code or for
+      mobile payment, your phone number. This phone number will be used to  
+      validate your payment and activate your premium membership. To erase your 
+      data from our server, please write us in the contact section below
     </p>
     <p>
       This Service does not use these “cookies” explicitly. However, the app may
@@ -124,7 +127,7 @@
     <p><strong>Contact Us</strong></p>
     <p>
       If you have any questions or suggestions about my Privacy Policy, do not
-      hesitate to contact me at ldm.artur@gmail.com.
+      hesitate to contact me at gasytab.premium@gmail.com.
     </p>
     <p>
       This privacy policy page was created at
