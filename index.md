@@ -58,12 +58,13 @@
     </p>
     <p><strong>Premium activation</strong></p>
     <p>
-      To enable our premium feature, the app requires you do agree a consent form 
-      with your e-mail. This will be then stored in our server. As for offline 
-      payment procedure, the app requires you to entire an activation code or for
-      mobile payment, your phone number. This phone number will be used to  
-      validate your payment and activate your premium membership. To erase your 
-      data from our server, please write us in the contact section below
+      To enable our premium feature, the app requires you to agree with a consent form 
+      with a valid e-mail. This will be then stored in our server. As for offline 
+      payment procedure, the app requires either an activation code or via
+      mobile payment. For mobile payment, the app requires you to entire a phone number
+      used for the transaction. This phone number will be used to  
+      validate your payment. To erase your data from our server (e-mail and/or phone number), 
+      please write me in the contact section below
     </p>
     <p>
       This Service does not use these “cookies” explicitly. However, the app may
