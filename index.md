@@ -29,10 +29,6 @@
       information that I request will be retained on your device and is not
       collected by me in any way.
     </p>
-    <p>
-      The app does use third party services that may collect information used to
-      identify you.
-    </p>
     
     <p><strong>Log Data</strong></p>
     <p>
